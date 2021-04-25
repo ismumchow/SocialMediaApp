@@ -1,0 +1,25 @@
+{
+  "name": "SocialMediaApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismumchow/SocialMediaApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismumchow/SocialMediaApp/issues"
+  },
+  "homepage": "https://github.com/ismumchow/SocialMediaApp#readme",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.5"
+  }
+}
